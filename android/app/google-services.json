@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269875517349",
+    "project_id": "words-project-bbf04",
+    "storage_bucket": "words-project-bbf04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269875517349:android:20bdbda6f5c116b8e2fa4c",
+        "android_client_info": {
+          "package_name": "com.english.english_lists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269875517349-seo3lvc4abfk7ri4pr97fi8i9e8erfl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDG8jpj2daanDhZ-nBJ5uib7USUtjlVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269875517349-seo3lvc4abfk7ri4pr97fi8i9e8erfl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
